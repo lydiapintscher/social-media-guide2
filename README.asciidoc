@@ -1,0 +1,10 @@
+Social Media Guide for Free Software Projects - part 2 or how to stay in touch with your team
+=========
+
+This guide tries to help Free Software projects use social media to improve team communication.
+
+This book is written using using the git-scribe toolchain, which can be found at: http://github.com/schacon/git-scribe
+
+Please fork and send merge requests :)
+
+The finished document can be found at http://gitscribe.com/lydiapintscher/social-media-guide2/ in various formats.
